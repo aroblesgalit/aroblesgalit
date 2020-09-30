@@ -1,6 +1,6 @@
 ### Hi there, I'm Alvin 👋
 
-## I'm a Web Developer, Graphic Designer, Life-long Learner
+## I'm a Web Developer, Graphic Designer, Lifelong Learner
 
 - 🧠 I’m currently learning Redux
 - ⭐ My specialty is in the MERN stack
