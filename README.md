@@ -7,6 +7,10 @@
 - 💜 I enjoy creating and problem-solving
 - 🎨 My hobbies are drawing, working out, and hiking
 
+
+Read about what else I'm up to on my [site.](https://www.alvingalit.com/posts)
+
+
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
 
