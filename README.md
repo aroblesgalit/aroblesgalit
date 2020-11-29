@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, Graphic Designer, Lifelong Learner
 
-- 🧠 I’m currently doing the JavaScript 30 Challenge and looking for my first role in web development
+- 🧠 I'm currently working on some animations for my portfolio.
 - ⭐ My specialty is in the MERN stack
 - 💜 I enjoy creating and problem-solving
 - 🎨 My hobbies are drawing, working out, and hiking
