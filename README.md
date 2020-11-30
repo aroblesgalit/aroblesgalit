@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, Graphic Designer, Lifelong Learner
 
-- 🧠 I'm currently working on some animations for my portfolio.
+- 🧠 I'm currently practicing CSS and JS hover effects => [demo][demo].
 - ⭐ My specialty is in the MERN stack
 - 💜 I enjoy creating and problem-solving
 - 🎨 My hobbies are drawing, working out, and hiking
@@ -16,3 +16,4 @@ Read about what else I'm up to on my [site.](https://www.alvingalit.com/posts)
 
 [website]: https://www.alvingalit.com/
 [linkedin]: https://www.linkedin.com/in/aroblesgalit/
+[demo]: https://aroblesgalit.github.io/css-hover-effects/
