@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, Graphic Designer, Lifelong Learner
 
-- 🧠 I'm currently practicing CSS and JS hover effects => [demo][demo].
+- 🧠 I'm currently practicing CSS and JS hover effects ☞ [demo][demo].
 - ⭐ My specialty is in the MERN stack
 - 💜 I enjoy creating and problem-solving
 - 🎨 My hobbies are drawing, working out, and hiking
