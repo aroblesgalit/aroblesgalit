@@ -1,6 +1,6 @@
 ### Hi there, I'm Alvin 👋
 
-## I'm a Web Developer, Graphic Designer, Lifelong Learner
+## Web Developer, Graphic Designer, Lifelong Learner
 
 - 🧠 I'm currently practicing CSS and JS hover effects ☞ [demo][demo].
 - ⭐ My specialty is in the MERN stack
