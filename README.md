@@ -5,7 +5,7 @@
 - 🧠 I'm currently practicing CSS and JS hover effects ☞ [demo][demo].
 - ⭐ My specialty is in the MERN stack
 - 💜 I enjoy creating and problem-solving
-- 🎨 My hobbies are drawing, working out, and hiking
+- 🎨 My hobbies are drawing, working out, hiking, and watching scary movies
 
 
 Read about what else I'm up to on my [site.](https://www.alvingalit.com/posts)
