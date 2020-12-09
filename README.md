@@ -2,6 +2,7 @@
 
 ## Web Developer, Graphic Designer, Lifelong Learner
 
+- 💼 I'm a Junior Web Developer at Ibotta.
 - 🧠 I'm currently practicing CSS and JS hover effects ☞ [demo][demo].
 - ⭐ My specialty is in the MERN stack
 - 💜 I enjoy creating and problem-solving
