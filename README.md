@@ -9,7 +9,7 @@
 - 🎨 My hobbies are drawing, working out, hiking, and watching scary movies
 
 
-Check out my latest personal react project ([my-expense-tracker](https://github.com/aroblesgalit/my-expense-tracker))
+Check out my latest personal react project ([my-expense-tracker](https://github.com/aroblesgalit/my-expense-tracker))  
 Read about what else I'm up to on my [site.](https://www.alvingalit.com/posts)
 
 
