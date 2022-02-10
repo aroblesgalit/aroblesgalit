@@ -1,6 +1,6 @@
 ### Hi there, I'm Alvin 👋
 
-## Web Developer, Graphic Designer, Lifelong Learner
+## Frontend Web Developer
 
 - 💼 I'm a Junior Web Developer at Ibotta
 - 🧠 I'm currently learning Vue.js
