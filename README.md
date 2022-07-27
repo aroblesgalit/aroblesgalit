@@ -2,7 +2,7 @@
 
 ## Frontend Web Developer
 
-- 💼 I'm a Junior Web Developer at Ibotta
+- 💼 I'm a Web Developer at Ibotta
 - 🧠 I'm currently learning Vue.js
 - ⭐ My specialty is in the MERN stack
 - 💜 I enjoy creating and problem-solving
