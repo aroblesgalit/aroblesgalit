@@ -3,7 +3,7 @@
 ## Frontend Web Developer
 
 - 💼 I'm a Web Developer at Ibotta
-- 🧠 I'm currently learning Nuxt, Unit testing with Jest, and GraphQL
+- 🧠 I'm currently learning Nextjs
 - ⭐ My specialty is in the MERN stack
 - 💜 I enjoy creating and problem-solving
 - 🎨 My hobbies are drawing, working out, hiking, and watching scary movies
