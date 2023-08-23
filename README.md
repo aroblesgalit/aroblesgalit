@@ -11,10 +11,9 @@
 
 Finished my first full stack Vue.js project ([digital-paper](https://github.com/aroblesgalit/digital-paper))  
 Check out my latest personal react project ([my-expense-tracker](https://github.com/aroblesgalit/my-expense-tracker))  
-Read about what else I'm up to on my [site.](https://www.alvingalit.com/posts)
 
 
-🏡 [website][website] **|** 
+
 👔 [linkedin][linkedin]
 
 [website]: https://www.alvingalit.com/
