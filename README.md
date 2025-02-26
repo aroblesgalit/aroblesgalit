@@ -1,8 +1,8 @@
 ### Hi there, I'm Alvin 👋
 
-## Frontend Web Developer
+## Associate Fullstack Engineer
 
-- 💼 I'm a Web Developer at Ibotta
+- 💼 I'm an Associate Fullstack Engineer at Ibotta
 - 🧠 I'm currently learning Nextjs
 - ⭐ My specialty is in the MERN stack
 - 💜 I enjoy creating and problem-solving
